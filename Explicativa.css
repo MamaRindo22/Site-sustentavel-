@@ -1,0 +1,143 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header {
+    background-image: url("folha\ -\ Copia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    margin-top: -100px;
+    padding: 100px;
+    text-align: left;
+    position: relative;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    text-decoration: none;
+    position: 15px;
+    display: block;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+    text-decoration: none;
+    position: 15px;
+    display: block;
+
+
+
+
+
+}
+
+li a:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    transition: 0.5s;
+
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 35px;
+    margin-top: 0px;
+    outline: none;
+    text-decoration: none;
+    position: relative;
+
+}
+
+a {
+
+    padding: 8px;
+    display: block;
+    outline: none;
+    background-size: 15px;
+    text-decoration: none;
+
+}
+
+
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 150px;
+}
+
+input {
+    padding: 10px;
+    position: absolute;
+    padding-right: 600px;
+    border: #333;
+    border-radius: 15px;
+
+}
+
+.flex-container {
+    margin-block-start: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightgray;
+    display: flex;
+    border-radius: 15px;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+.flex-container2 {
+    margin-block-start: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightgray;
+    border-radius: 15px;
+    text-align: justify;
+    text-decoration: solid;
+    font-size: 20px;
+
+}
+
+.ul1 {
+    margin: 15px;
+}
+
+.intro {
+    margin: 15px;
+}
+
+.botaologin{
+    margin-left: 1350px;
+}
+
+.gay{
+    margin-left: 1650px;
+    width: 30px;
+    margin-top: -45px;
+    display: flex;
+    
+}
+
+.gay2{
+    width: 100px;   
+    margin-left: 850px;
+    margin-top: -80px;
+    display: flex;
+}
